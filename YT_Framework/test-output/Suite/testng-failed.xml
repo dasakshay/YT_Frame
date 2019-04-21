@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testing.TestCases.TC1">
+        <methods>
+          <include name="CloseMethod"/>
+          <include name="BrowserLaunch"/>
+        </methods>
+      </class> <!-- org.testing.TestCases.TC1 -->
+      <class name="org.testing.TestCases.TC3">
+        <methods>
+          <include name="SigninVideoLike"/>
+        </methods>
+      </class> <!-- org.testing.TestCases.TC3 -->
+      <class name="org.testing.TestCases.TC2">
+        <methods>
+          <include name="BrowserLaunch"/>
+          <include name="SigninSubscription"/>
+        </methods>
+      </class> <!-- org.testing.TestCases.TC2 -->
+      <class name="org.testing.TestCases.TC4">
+        <methods>
+          <include name="SigninVideoSubscribe"/>
+        </methods>
+      </class> <!-- org.testing.TestCases.TC4 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
