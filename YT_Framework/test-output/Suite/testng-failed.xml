@@ -16,7 +16,6 @@
       </class> <!-- org.testing.TestCases.TC3 -->
       <class name="org.testing.TestCases.TC2">
         <methods>
-          <include name="BrowserLaunch"/>
           <include name="SigninSubscription"/>
         </methods>
       </class> <!-- org.testing.TestCases.TC2 -->

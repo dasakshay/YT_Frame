@@ -22,9 +22,8 @@ public class TC3 extends BaseClass
 	{
 		try {
 		Login l = new Login(driver, pr);
-		l.signin("dasakshay@gmail.com", "*******");
+		l.signin("dasakshay@gmail.com", "Akshay1&2");
 		Logs.takeLogs("TC3", "Login successfully");
-		
 		Video_Play v = new Video_Play(driver, pr);
 		v.Videoplay();
 		WebElement video_like = driver.findElement(By.xpath(pr.getProperty("like")));

@@ -2,62 +2,62 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="231551" started-at="2019-04-21T15:38:21Z" finished-at="2019-04-21T15:42:12Z">
+  <suite name="Suite" duration-ms="369572" started-at="2019-04-23T17:08:33Z" finished-at="2019-04-23T17:14:42Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="231551" started-at="2019-04-21T15:38:21Z" finished-at="2019-04-21T15:42:12Z">
+    <test name="Test" duration-ms="369572" started-at="2019-04-23T17:08:33Z" finished-at="2019-04-23T17:14:42Z">
       <class name="org.testing.TestCases.TC3">
-        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC3@6fc6f14e]" name="BrowserLaunch" is-config="true" duration-ms="41721" started-at="2019-04-21T21:10:27Z" finished-at="2019-04-21T21:11:08Z">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC3@6fc6f14e]" name="BrowserLaunch" is-config="true" duration-ms="53129" started-at="2019-04-23T22:41:33Z" finished-at="2019-04-23T22:42:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserLaunch -->
-        <test-method status="PASS" signature="SigninVideoLike()[pri:0, instance:org.testing.TestCases.TC3@6fc6f14e]" name="SigninVideoLike" duration-ms="1214" started-at="2019-04-21T21:11:08Z" finished-at="2019-04-21T21:11:10Z">
+        <test-method status="PASS" signature="SigninVideoLike()[pri:0, instance:org.testing.TestCases.TC3@6fc6f14e]" name="SigninVideoLike" duration-ms="31449" started-at="2019-04-23T22:42:27Z" finished-at="2019-04-23T22:42:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SigninVideoLike -->
-        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC3@6fc6f14e]" name="CloseMethod" is-config="true" duration-ms="10837" started-at="2019-04-21T21:11:10Z" finished-at="2019-04-21T21:11:21Z">
+        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC3@6fc6f14e]" name="CloseMethod" is-config="true" duration-ms="10786" started-at="2019-04-23T22:42:58Z" finished-at="2019-04-23T22:43:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseMethod -->
       </class> <!-- org.testing.TestCases.TC3 -->
       <class name="org.testing.TestCases.TC2">
-        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC2@20398b7c]" name="BrowserLaunch" is-config="true" duration-ms="40930" started-at="2019-04-21T21:09:33Z" finished-at="2019-04-21T21:10:14Z">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC2@20398b7c]" name="BrowserLaunch" is-config="true" duration-ms="54522" started-at="2019-04-23T22:40:06Z" finished-at="2019-04-23T22:41:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserLaunch -->
-        <test-method status="PASS" signature="SigninSubscription()[pri:0, instance:org.testing.TestCases.TC2@20398b7c]" name="SigninSubscription" duration-ms="2023" started-at="2019-04-21T21:10:14Z" finished-at="2019-04-21T21:10:16Z">
+        <test-method status="PASS" signature="SigninSubscription()[pri:0, instance:org.testing.TestCases.TC2@20398b7c]" name="SigninSubscription" duration-ms="22831" started-at="2019-04-23T22:41:00Z" finished-at="2019-04-23T22:41:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SigninSubscription -->
-        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC2@20398b7c]" name="CloseMethod" is-config="true" duration-ms="10595" started-at="2019-04-21T21:10:16Z" finished-at="2019-04-21T21:10:27Z">
+        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC2@20398b7c]" name="CloseMethod" is-config="true" duration-ms="10544" started-at="2019-04-23T22:41:23Z" finished-at="2019-04-23T22:41:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseMethod -->
       </class> <!-- org.testing.TestCases.TC2 -->
       <class name="org.testing.TestCases.TC1">
-        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC1@31610302]" name="BrowserLaunch" is-config="true" duration-ms="53292" started-at="2019-04-21T21:08:21Z" finished-at="2019-04-21T21:09:14Z">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC1@31610302]" name="BrowserLaunch" is-config="true" duration-ms="58095" started-at="2019-04-23T22:38:33Z" finished-at="2019-04-23T22:39:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserLaunch -->
-        <test-method status="PASS" signature="SigninTrending()[pri:0, instance:org.testing.TestCases.TC1@31610302]" name="SigninTrending" duration-ms="8221" started-at="2019-04-21T21:09:14Z" finished-at="2019-04-21T21:09:22Z">
+        <test-method status="PASS" signature="SigninTrending()[pri:0, instance:org.testing.TestCases.TC1@31610302]" name="SigninTrending" duration-ms="23886" started-at="2019-04-23T22:39:31Z" finished-at="2019-04-23T22:39:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SigninTrending -->
-        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC1@31610302]" name="CloseMethod" is-config="true" duration-ms="10793" started-at="2019-04-21T21:09:22Z" finished-at="2019-04-21T21:09:33Z">
+        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC1@31610302]" name="CloseMethod" is-config="true" duration-ms="10714" started-at="2019-04-23T22:39:55Z" finished-at="2019-04-23T22:40:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseMethod -->
       </class> <!-- org.testing.TestCases.TC1 -->
       <class name="org.testing.TestCases.TC4">
-        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC4@56235b8e]" name="BrowserLaunch" is-config="true" duration-ms="40162" started-at="2019-04-21T21:11:21Z" finished-at="2019-04-21T21:12:01Z">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.TestCases.TC4@56235b8e]" name="BrowserLaunch" is-config="true" duration-ms="50802" started-at="2019-04-23T22:43:09Z" finished-at="2019-04-23T22:44:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserLaunch -->
-        <test-method status="PASS" signature="SigninVideoSubscribe()[pri:0, instance:org.testing.TestCases.TC4@56235b8e]" name="SigninVideoSubscribe" duration-ms="1224" started-at="2019-04-21T21:12:01Z" finished-at="2019-04-21T21:12:02Z">
+        <test-method status="PASS" signature="SigninVideoSubscribe()[pri:0, instance:org.testing.TestCases.TC4@56235b8e]" name="SigninVideoSubscribe" duration-ms="32049" started-at="2019-04-23T22:44:00Z" finished-at="2019-04-23T22:44:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SigninVideoSubscribe -->
-        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC4@56235b8e]" name="CloseMethod" is-config="true" duration-ms="10485" started-at="2019-04-21T21:12:02Z" finished-at="2019-04-21T21:12:12Z">
+        <test-method status="PASS" signature="CloseMethod()[pri:0, instance:org.testing.TestCases.TC4@56235b8e]" name="CloseMethod" is-config="true" duration-ms="10718" started-at="2019-04-23T22:44:32Z" finished-at="2019-04-23T22:44:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseMethod -->

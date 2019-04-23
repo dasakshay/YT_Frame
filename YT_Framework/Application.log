@@ -46,3 +46,152 @@
 
 2019-04-21 21:12:02 {TC4} (main:) 
 
+2019-04-22 01:53:29 {Screenshot} (main:) 
+
+2019-04-22 01:53:29 {TC1} (main:) 
+
+2019-04-22 01:54:20 {Screenshot} (main:) 
+
+2019-04-22 01:54:20 {TC2} (main:) 
+
+2019-04-22 01:55:11 {Screenshot} (main:) 
+
+2019-04-22 01:55:11 {TC3} (main:) 
+
+2019-04-22 01:56:01 {Screenshot} (main:) 
+
+2019-04-22 01:56:01 {TC4} (main:) 
+
+2019-04-22 02:03:48 {Screenshot} (main:) 
+
+2019-04-22 02:03:48 {TC1} (main:) 
+
+2019-04-22 02:10:24 {Screenshot} (main:) 
+
+2019-04-22 02:10:24 {TC2} (main:) 
+
+2019-04-22 02:15:16 {Screenshot} (main:) 
+
+2019-04-22 02:15:16 {TC1} (main:) 
+
+2019-04-22 02:16:17 {Screenshot} (main:) 
+
+2019-04-22 02:16:17 {TC2} (main:) 
+
+2019-04-23 00:35:07 {Screenshot} (main:) 
+
+2019-04-23 00:35:07 {TC1} (main:) 
+
+2019-04-23 00:52:28 {TC1} (main:) 
+
+2019-04-23 00:52:32 {Screenshot} (main:) 
+
+2019-04-23 00:52:32 {TC1} (main:) 
+
+2019-04-23 00:53:58 {TC2} (main:) 
+
+2019-04-23 00:54:04 {Screenshot} (main:) 
+
+2019-04-23 00:54:04 {TC2} (main:) 
+
+2019-04-23 00:55:24 {TC3} (main:) 
+
+2019-04-23 00:55:27 {Screenshot} (main:) 
+
+2019-04-23 00:55:27 {TC3} (main:) 
+
+2019-04-23 00:56:45 {TC3} (main:) 
+
+2019-04-23 00:56:50 {Screenshot} (main:) 
+
+2019-04-23 00:56:50 {TC4} (main:) 
+
+2019-04-23 01:07:59 {TC1} (main:) 
+
+2019-04-23 01:08:02 {Screenshot} (main:) 
+
+2019-04-23 01:08:02 {TC1} (main:) 
+
+2019-04-23 01:09:22 {TC2} (main:) 
+
+2019-04-23 01:09:28 {Screenshot} (main:) 
+
+2019-04-23 01:09:28 {TC2} (main:) 
+
+2019-04-23 01:10:48 {TC3} (main:) 
+
+2019-04-23 01:10:51 {Video_Play} (main:) 
+
+2019-04-23 01:11:02 {Screenshot} (main:) 
+
+2019-04-23 01:11:02 {TC3} (main:) 
+
+2019-04-23 01:12:21 {TC3} (main:) 
+
+2019-04-23 01:12:24 {Video_Play} (main:) 
+
+2019-04-23 01:12:35 {Screenshot} (main:) 
+
+2019-04-23 01:12:35 {TC4} (main:) 
+
+2019-04-23 01:26:51 {TC1} (main:) 
+
+2019-04-23 01:26:55 {Screenshot} (main:) 
+
+2019-04-23 01:26:55 {TC1} (main:) 
+
+2019-04-23 01:28:17 {TC2} (main:) 
+
+2019-04-23 01:28:24 {Screenshot} (main:) 
+
+2019-04-23 01:28:24 {TC2} (main:) 
+
+2019-04-23 01:29:43 {TC3} (main:) 
+
+2019-04-23 01:29:46 {Video_Play} (main:) 
+
+2019-04-23 01:29:58 {Screenshot} (main:) 
+
+2019-04-23 01:29:58 {TC3} (main:) 
+
+2019-04-23 01:31:17 {TC3} (main:) 
+
+2019-04-23 01:31:20 {Video_Play} (main:) 
+
+2019-04-23 01:31:32 {Screenshot} (main:) 
+
+2019-04-23 01:31:32 {TC4} (main:) 
+
+2019-04-23 01:54:11,341 INFO  [TC1] Login successfully 
+2019-04-23 01:54:15,691 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 01:54:15,703 INFO  [TC1] TC1 is passed 
+2019-04-23 01:55:34,861 INFO  [TC2] Login successfully 
+2019-04-23 01:55:40,987 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 01:55:40,998 INFO  [TC2] TC2 is passed 
+2019-04-23 01:56:59,796 INFO  [TC3] Login successfully 
+2019-04-23 01:57:02,522 INFO  [Video_Play] Video played successfully 
+2019-04-23 01:57:13,909 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 01:57:13,918 INFO  [TC3] TC3 is passed 
+2019-04-23 01:58:35,560 INFO  [TC3] Login successfully 
+2019-04-23 01:58:38,159 INFO  [Video_Play] Video played successfully 
+2019-04-23 01:58:49,123 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 01:58:49,140 INFO  [TC4] TC4 is failed
+2019-04-23 22:10:45,690 INFO  [TC3] Login successfully 
+2019-04-23 22:10:50,120 INFO  [Video_Play] Video played successfully 
+2019-04-23 22:11:01,342 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 22:11:01,371 INFO  [TC4] TC4 is failed 
+
+2019-04-23 22:39:51,426 INFO  [TC1] Login successfully 
+2019-04-23 22:39:55,309 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 22:39:55,319 INFO  [TC1] TC1 is passed 
+2019-04-23 22:41:17,224 INFO  [TC2] Login successfully 
+2019-04-23 22:41:23,394 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 22:41:23,406 INFO  [TC2] TC2 is passed 
+2019-04-23 22:42:43,770 INFO  [TC3] Login successfully 
+2019-04-23 22:42:47,037 INFO  [Video_Play] Video played successfully 
+2019-04-23 22:42:58,522 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 22:42:58,531 INFO  [TC3] TC3 is passed 
+2019-04-23 22:44:17,732 INFO  [TC4] Login successfully 
+2019-04-23 22:44:21,004 INFO  [Video_Play] Video played successfully 
+2019-04-23 22:44:32,165 INFO  [Screenshot] Screenshot taken successfully 
+2019-04-23 22:44:32,171 INFO  [TC4] TC4 is passed 

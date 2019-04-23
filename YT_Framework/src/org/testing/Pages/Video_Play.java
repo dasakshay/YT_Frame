@@ -22,7 +22,7 @@ public class Video_Play
 	
 	public void Videoplay() throws InterruptedException
 	{
-		List<WebElement> videoplay = driver.findElements(By.id(pr.getProperty("videoplay")));
+		List<WebElement> videoplay = driver.findElements(By.id(pr.getProperty("vidioplay")));
 		videoplay.get(1).click();
 		Logs.takeLogs("Video_Play", "Video played successfully");
 		Thread.sleep(10000);

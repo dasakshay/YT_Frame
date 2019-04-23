@@ -22,10 +22,10 @@ public class TC4 extends BaseClass
 	{
 		try {
 		Login l = new Login(driver, pr);
-		l.signin("dasakshay@gmail.com", "*******");
-		Logs.takeLogs("TC3", "Login successfully");
+		l.signin("dasakshay@gmail.com", "Akshay1&2");
+		Logs.takeLogs("TC4", "Login successfully");
 		Video_Play v = new Video_Play(driver, pr);
-		v.Videoplay();		
+		v.Videoplay();
 		WebElement video_subscribe = driver.findElement(By.xpath(pr.getProperty("subscribe")));
 		video_subscribe.click();
 		Screenshot.takeScreenshot(driver, "D:\\YT_Screenshots\\TC4\\TC4_Passed.png");
@@ -37,5 +37,4 @@ public class TC4 extends BaseClass
 		Logs.takeLogs("TC4", "TC4 is failed");
 		}
 	}
-	
 }

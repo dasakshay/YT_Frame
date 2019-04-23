@@ -21,7 +21,7 @@ public class TC2 extends BaseClass
 	{
 		try {
 		Login l = new Login(driver, pr);
-		l.signin("dasakshay@gmail.com", "*******");
+		l.signin("dasakshay@gmail.com", "Akshay1&2");
 		Logs.takeLogs("TC2", "Login successfully");
 		Thread.sleep(5000);
 		WebElement subscription = driver.findElement(By.xpath(pr.getProperty("subscription1")));

@@ -15,7 +15,7 @@ public class BaseClass
 	public ChromeOptions options;
 	
 	@BeforeMethod
-	public void BrowserLaunch() throws IOException 
+	public void BrowserLaunch() throws IOException, InterruptedException
 	{
 		File f = new File("../YT_Framework/OR.properties");
 		FileInputStream fi = new FileInputStream(f);
@@ -26,8 +26,8 @@ public class BaseClass
 		options.addArguments("--disable-notifications");
 		driver = new ChromeDriver(options);
 		driver.get("https://www.youtube.com/");
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
+		Thread.sleep(10000);
 	}
 	
 	@AfterMethod
